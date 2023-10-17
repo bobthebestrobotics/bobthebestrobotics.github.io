@@ -1,3 +1,4 @@
+<doctype html>
 <html>
     <head>Robotics!!!</head>
     <body>
@@ -5,3 +6,4 @@
         <p>Robotics!!!</p>
     </body>
 </html>
+</doctype>
